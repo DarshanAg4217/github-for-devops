@@ -1,7 +1,7 @@
 console.log("Hello My dear Friend!");
 const a = 10
-let b = 20
-let c = 30
+const b = 20
+const c = 30
 
 
 
